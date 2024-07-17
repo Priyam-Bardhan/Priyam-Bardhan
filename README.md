@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Priyam Bardhan
 - 👀 I’m interested in Cloud computing and Coding 
 - 🌱 I’m currently learning DSA, DBMS, Data Warehousing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with Data Scientist, Software Engineers, Cloud Engineers
 - 📫 Reach me on mailtopriyambardhan191@gmail.com
 - 😄 Pronouns: He/Him
 
